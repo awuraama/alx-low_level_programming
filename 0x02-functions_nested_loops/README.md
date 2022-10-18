@@ -1,1 +1,1 @@
-_putchar
+nested loop
