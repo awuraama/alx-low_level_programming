@@ -1,1 +1,1 @@
-Hello world
+ Even more pointers, arrays and strings
